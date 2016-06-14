@@ -1,0 +1,24 @@
+{
+  "name": "pid-genetic",
+  "version": "0.0.0-1",
+  "description": "Genetic Algorithm that was used to tune PID controller parameters Kp, Ki, Kd, and Kdd (second derivative)",
+  "main": "Genetic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Besendorfer/PID-Genetic.git"
+  },
+  "keywords": [
+    "PID",
+    "Genetic",
+    "Algorithm",
+    "Sphero"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Besendorfer/PID-Genetic/issues"
+  },
+  "homepage": "https://github.com/Besendorfer/PID-Genetic#readme"
+}
